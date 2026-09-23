@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="oracle-neon.gif" width="320" alt="">
+  <img src="oracle-twin-neon.gif" width="320" alt="">
 </div>
